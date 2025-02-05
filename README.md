@@ -7,7 +7,7 @@
 📂 Web Site Cinema Design Kimetusu no Yaiba <br>
 📂 Web Site Star-wars & personagens <br>
 📂 Clone Spotify <br>
-📂 Cadastro Formulário <br>
+📂 Cadastro_Formulário <br>
 
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
 
@@ -15,7 +15,7 @@
 
 ##
  <b> Front-End</b>
-<div style="display: inline_block"><br>
+<div align="left">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
