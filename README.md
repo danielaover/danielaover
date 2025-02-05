@@ -16,7 +16,7 @@
 </p>
 
 ##
- <b> Front-End</b>
+ <b> 🌐 Front-End</b>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -33,7 +33,7 @@
 
 ## 
 
-<b>Estudando</b>
+<b>⚙️ Estudando: Ferramentas e Frameworks</b>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
