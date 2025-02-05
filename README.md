@@ -1,7 +1,9 @@
-💻 Desenvolvedora Front-End | 📚 Estudando Back-End
-🎓 Cursando Análise e Desenvolvimento de Sistemas
-🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais.
-📍 Experiência com estágio no INSS
+<p>💻 Desenvolvedora Front-End <br>
+📚 Estudando Back-End <br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
+🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
+📍 Experiência com estágio no INSS</p>
+
 ##
 
  <b> Front-End</b>
