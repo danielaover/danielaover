@@ -3,6 +3,7 @@
 📚 Estudando Back-End <br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 📍 Estágio no INSS <br>
+📍 Trainee na L3 <br>
  
 📂 Web Site Cinema Design Kimetusu no Yaiba <br>
 📂 Web Site Star-wars & personagens <br>
