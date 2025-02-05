@@ -7,7 +7,7 @@
 📂 Web Site Cinema Design Kimetusu no Yaiba <br>
 📂 Web Site Star-wars & personagens <br>
 📂 Clone Spotify <br>
-📂 Cadastro de pessoas (formulário) <br>
+📂 Cadastro Formulário <br>
 
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
 
