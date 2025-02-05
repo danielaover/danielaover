@@ -1,4 +1,7 @@
-## Olá, me chamo Daniela, estudante do curso Análise e Desenvolvimento de sistemas e futura FullStack!
+💻 Desenvolvedora Front-End | 📚 Estudando Back-End
+🎓 Cursando Análise e Desenvolvimento de Sistemas
+🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais.
+📍 Experiência com estágio no INSS
 
 
 <div style="display: inline_block"><br>
