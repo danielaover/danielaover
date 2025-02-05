@@ -1,8 +1,17 @@
-<p>💻 Desenvolvedora Front-End <br>
+<p>🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
+💻 Desenvolvedora Front-End <br>
 📚 Estudando Back-End <br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
+📍 Estágio no INSS <br>
+ 
+📂 Web Site Cinema Design Kimetusu no Yaiba <br>
+📂 Web Site Star-wars & personagens <br>
+📂 Clone Spotify <br>
+📂 Cadastro de pessoas (formulário) <br>
+
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
-📍 Experiência com estágio no INSS</p>
+
+</p>
 
 ##
 
