@@ -33,7 +33,7 @@
 
 ## 
 
-<b>⚙️ Estudando: Ferramentas e Frameworks</b>
+<b>⚙️ Estudando #*Construção* </b>
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
