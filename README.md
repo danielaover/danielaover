@@ -1,7 +1,6 @@
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 💻 Desenvolvedora Front-End <br>
 📚 Estudando Back-End <br>
-🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 📍 Estágio no INSS <br>
 📍 Trainee na L3 <br>
 
