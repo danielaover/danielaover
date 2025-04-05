@@ -4,15 +4,6 @@
 📍 Estágio no INSS <br>
 📍 Trainee na L3 <br>
 
- Repositório:<br>
-📂 Web Site Cinema Design Kimetusu no Yaiba <br>
-📂 Web Site Star_wars & personagens <br>
-📂 Clone Spotify <br>
-📂 Cadastro_Formulário <br>
-📂 Previsao_do_Tempo<br>
-📂 Portfolio_Dani<br>
-📂 Clone_Whatsapp<br>
-📂 Nikel_Growdev <br>
 
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
 
