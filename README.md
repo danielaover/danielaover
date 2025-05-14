@@ -1,9 +1,6 @@
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
-💻 Desenvolvedora Front-End <br>
-📚 Estudando Back-End <br>
-📍 Estágio no INSS <br>
-📍 Trainee na L3 <br>
 
+ 💻 IT Intern at Volcafe | Software Developer 
 
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
 
