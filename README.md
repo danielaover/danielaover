@@ -1,6 +1,6 @@
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas <br>
 
- 💻 IT Intern at Volcafe | Software Developer 
+ 💻 Estagiária de TI no ED&F Man Volcafe Brasil Ltda | Software Developer 
 
 🚀 Apaixonada por tecnologia, desenvolvo projetos pessoais e busco sempre aprender mais. <br>
 
